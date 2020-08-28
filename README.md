@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub!
 
-Greetings to you, fellow visitor.
+Greetings, fellow visitor.
 
 ## 🔭 What I’m currently working on
 
@@ -9,7 +9,7 @@ I'm mostly developping stuff using [Node.js](https://nodejs.org/) as a backend f
 Most projects made public on my GitHub are apps developed with [Electron.js](https://www.electronjs.org/) since I like building various desktop tools.
 
 I also recently moved from [BootstrapVue](https://bootstrap-vue.org/) to [Vuetify](https://vuetifyjs.com/) for my [Vue.js](https://vuejs.org/) UIs.
-Thus, I'd consider my favortie stack as **Electron+Vue** which allows for creating powerfull Node.js-based desktop softwares!
+Thus, I'd consider my favortie stack to be **Electron+Vue** which allows for creating powerfull Node.js-based desktop softwares!
 
 ## 🌱 What I’m currently learning
 
