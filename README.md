@@ -1,27 +1,18 @@
 # 👋 Welcome to my GitHub!
 
-Greetings, fellow visitor.
+Greetings, fellow visitor and thank you for visiting my GitHub!
 
-## 🔭 What I’m currently working on
+## 🔭 My topics
 
-I'm mostly developping stuff using [Node.js](https://nodejs.org/) as a backend for servers or apps.
+Here's what I'm currently working with:
 
-Most projects made public on my GitHub are apps developed with [Electron.js](https://www.electronjs.org/) since I like building various desktop tools.
+- GitLab
+- TeamCity
+- Azure
+- VMware vSphere
+- Docker
+- Kubernetes
 
-I also recently moved from [BootstrapVue](https://bootstrap-vue.org/) to [Vuetify](https://vuetifyjs.com/) for my [Vue.js](https://vuejs.org/) UIs.
-Thus, I'd consider my favortie stack to be **Electron+Vue** which allows for creating powerfull Node.js-based desktop softwares!
+## 📫 Reach me
 
-## 🌱 What I’m currently learning
-
-I'm trying to improve my skills in cloud-based systems for topics like:
-- CI & CD
-- Service hosting
-- Task automation
-- API services
-- AI computing
-
-## 📫 How to reach me
-
-You can get in touch with me via email here: contact+github@quentinlamotte.com
-
-Feel free to have a look at my [LinkedIn]() profile as well!
+You can get in touch with me via my profesionnal email here: <quentin.lamotte@actimage.de>
