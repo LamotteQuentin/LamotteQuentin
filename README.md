@@ -4,12 +4,12 @@ Greetings, fellow visitor and thank you for visiting my GitHub!
 
 ## 🔭 My topics
 
-Here's what I'm currently working with:
+Here's what I'm currently working on:
 
+- Ansible
 - GitLab
 - TeamCity
 - Azure
-- VMware vSphere
 - Docker
 - Kubernetes
 
